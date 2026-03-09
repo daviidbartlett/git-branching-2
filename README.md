@@ -13,3 +13,7 @@ Install local dependencies using:
 ```sh
 npm install
 ```
+
+## env variables
+
+In order to run this project locally you will need a `.env` file at the root level of the project. Message David for the contents.
