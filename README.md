@@ -13,3 +13,13 @@ Install local dependencies using:
 ```sh
 npm install
 ```
+
+## Seeding
+
+To seed the database ensure you have PostgreSQL running locally on your machine.
+
+Run the following script to create local database:
+
+```sh
+npm run setup-dbs
+```
